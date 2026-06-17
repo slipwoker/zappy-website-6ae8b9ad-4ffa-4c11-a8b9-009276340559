@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-6ae8b9ad.zappy5.app
+https://example.com
 אתר ההנצחה והזיכרון הרשמי ללוחמי הימ&quot;מ שנפלו. מקום מכבד ומרגש להתייחד עם זכרם, מורשתם וערכיהם. הצטרפו אלינו במסע ההוקרה לגבורה וההקרבה.
 
 ### ארכיון הנצחה
-https://-6ae8b9ad.zappy5.app/memorial-archive
+https://example.com/memorial-archive
 היכנסו לארכיון ההנצחה המרגש של חללי הימ&quot;מ. סיפורי גבורה, תמונות וסרטונים נדירים המנציחים את מורשת הלוחמים. הוקירו את זכרם וגלו את סיפור חייהם.
 
 ### מורשת וערכים
-https://-6ae8b9ad.zappy5.app/legacy-values
+https://example.com/legacy-values
 צללו לעומק מורשת הימ&quot;מ וערכי היסוד של היחידה: אומץ לב, רעות והקרבה. למדו על מורשת הקרב והשליחות הלאומית שעיצבו דורות של לוחמים. היכנסו עכשיו.
 
 ### צור קשר
-https://-6ae8b9ad.zappy5.app/contact
+https://example.com/contact
 רוצים לשתף סיפור, לתרום או להנציח? צרו איתנו קשר. צוות אתר הימ&quot;מ כאן כדי להקשיב, לסייע ולשמר את זיכרון הגיבורים יחד איתכם. פנו אלינו עוד היום.
 
 ### Products
-https://-6ae8b9ad.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - הימ"מ
 
 ### Product Detail
-https://-6ae8b9ad.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - הימ"מ
 
 ### Category
-https://-6ae8b9ad.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - הימ"מ
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-6ae8b9ad.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-6ae8b9ad.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-6ae8b9ad.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -73,8 +73,8 @@ Memorial / Tribute
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-6ae8b9ad.zappy5.app/sitemap.xml
-- Robots: https://-6ae8b9ad.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-6ae8b9ad.zappy5.app/llms-full.txt
-- Products (JSON): https://-6ae8b9ad.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-6ae8b9ad.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
