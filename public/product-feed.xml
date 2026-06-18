@@ -4,17 +4,17 @@
     <title>הימ&quot;מ</title>
     <link>https://example.com</link>
     <description>Product feed for הימ&quot;מ</description>
-    <lastBuildDate>Thu, 18 Jun 2026 09:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 09:12:08 GMT</lastBuildDate>
     <item>
       <g:id>5f6954fd-b6cd-4493-be93-901bb8bded17</g:id>
       <g:title>קניית לוחמי הימ&quot;מ</g:title>
       <g:description>&apos;הלוחמים העתידים שלנו - ס&apos;+ ד&apos; + א&apos; + ד&apos; + י</g:description>
-      <g:link>https://example.com/product/knyyt-lvchmy-hymm-7fq6vm</g:link>
+      <g:link>https://example.com/product/knyyt-lvchmy-hymm-07i7by</g:link>
       <g:image_link>https://example.com/assets/product-1781773269008-vosvbr.webp</g:image_link>
       <g:additional_image_link>https://example.com/assets/image-product-image-1781773102285-cqyrym.webp</g:additional_image_link>
-      <g:additional_image_link>https://example.com/assets/product-1781773239113-pq61.webp</g:additional_image_link>
       <g:availability>in_stock</g:availability>
-      <g:price>1.00 ILS</g:price>
+      <g:price>6000000.00 ILS</g:price>
+      <g:sale_price>10000.00 ILS</g:sale_price>
       <g:condition>new</g:condition>
       <g:brand>הימ&quot;מ</g:brand>
       <g:identifier_exists>no</g:identifier_exists>

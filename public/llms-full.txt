@@ -3733,8 +3733,8 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ## Product Catalog
 
 ### קניית לוחמי הימ"מ
-URL: https://example.com/product/knyyt-lvchmy-hymm-7fq6vm
-Price: 10000.00 ILS
+URL: https://example.com/product/knyyt-lvchmy-hymm-07i7by
+Price: 10000.00 ILS (sale, was 6000000.00 ILS)
 Availability: In stock
 
 'הלוחמים העתידים שלנו - ס'+ ד' + א' + ד' + י
