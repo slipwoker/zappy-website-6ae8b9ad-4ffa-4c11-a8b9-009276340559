@@ -52,7 +52,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### קניית לוחמי הימ"מ
+https://example.com/product/knyyt-lvchmy-hymm-7fq6vm
+- Price: 10000.00 ILS
+- Availability: In stock
+- Description: 'הלוחמים העתידים שלנו - ס'+ ד' + א' + ד' + י
+- Image: https://example.com/assets/product-1781773269008-vosvbr.webp
 
 ---
 

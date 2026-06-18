@@ -1,8 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-18T08:57:46.302Z",
+  "generated_at": "2026-06-18T09:03:14.580Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "5f6954fd-b6cd-4493-be93-901bb8bded17",
+      "slug": "knyyt-lvchmy-hymm-7fq6vm",
+      "name": "קניית לוחמי הימ\"מ",
+      "name_translations": {},
+      "description": "<p>'הלוחמים העתידים שלנו - ס'+ ד' + א' + ד' + י</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 10000,
+      "base_price": 1,
+      "sale_price": 10000,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1781773269008-vosvbr.webp",
+        "https://example.com/assets/image-product-image-1781773102285-cqyrym.webp",
+        "https://example.com/assets/product-1781773239113-pq61.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/knyyt-lvchmy-hymm-7fq6vm",
+      "categories": [],
+      "updated_at": "2026-06-18T09:01:25.646Z"
+    }
+  ]
 }
